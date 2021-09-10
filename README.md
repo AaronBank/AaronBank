@@ -1,13 +1,16 @@
 <!--
  * @Author: your name
  * @Date: 2021-09-10 10:53:44
- * @LastEditTime: 2021-09-10 12:58:15
+ * @LastEditTime: 2021-09-10 13:23:33
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /AaronBank/README.md
 -->
 # Walk's
 
+This is a front-end development that loves technology. 
+
+<br/> <b>Thanks for watching my homepage</b>  ![visitors](https://visitor-badge.glitch.me/badge?page_id=AaronBank.master&left_color=000000&right_color=000000)
 
 ## Personal Details
 
