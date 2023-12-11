@@ -18,7 +18,7 @@
 
 ## Personal Details
 
-:phone: TEL：(+86) 157-0167-6752 丨 :inbox_tray: E-mail：walkemail@yeah.net
+:phone: TEL：(+86) 157-xxxx-6752 丨 :inbox_tray: E-mail：shenweikang1344@yeah.net
 
 <br/> 
 
