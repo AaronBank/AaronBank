@@ -30,5 +30,5 @@
 
 ## Activity Graph
 
-[![Walk's github activity graph](https://activity-graph.herokuapp.com/graph?username=AaronBank&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AaronBank&bg_color=ffffff&color=000000&line=038c4c&point=0f0f0f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
